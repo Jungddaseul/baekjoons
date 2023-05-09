@@ -1,3 +1,6 @@
+# ✅ 풀이 : https://wisdom-coding38.tistory.com/129
+
+
 # [level 1] 직사각형 별찍기 - 12969 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=python3) 
