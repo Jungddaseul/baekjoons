@@ -1,4 +1,4 @@
-#### ✅ 풀이: https://wisdom-coding38.tistory.com/128
+## ✅ 풀이: https://wisdom-coding38.tistory.com/128
 
 # [level 1] 행렬의 덧셈 - 12950 
 
