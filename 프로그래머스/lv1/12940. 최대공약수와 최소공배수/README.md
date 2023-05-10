@@ -1,3 +1,5 @@
+##  ✅ [풀이링크](https://wisdom-coding38.tistory.com/130) 
+
 # [level 1] 최대공약수와 최소공배수 - 12940 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12940) 
