@@ -1,4 +1,4 @@
-## ✅ 풀이링크 : https://wisdom-coding38.tistory.com/134
+## ✅ 풀이링크 : https://wisdom-coding38.tistory.com/135
 
 # [level 1] 시저 암호 - 12926 
 
