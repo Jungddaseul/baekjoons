@@ -1,4 +1,4 @@
-## ✅ 풀이링크 : https://wisdom-coding38.tistory.com/146
+## ✅ 풀이링크 : https://wisdom-coding38.tistory.com/147
 
 # [level 1] K번째수 - 42748 
 
