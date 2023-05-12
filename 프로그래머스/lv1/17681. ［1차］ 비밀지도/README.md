@@ -1,3 +1,5 @@
+## ✅ 풀이링크 : https://wisdom-coding38.tistory.com/145
+
 # [level 1] [1차] 비밀지도 - 17681 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17681) 
