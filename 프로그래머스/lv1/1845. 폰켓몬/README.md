@@ -1,3 +1,5 @@
+## 풀이링크 : https://wisdom-coding38.tistory.com/155
+
 # [level 1] 폰켓몬 - 1845 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1845) 
