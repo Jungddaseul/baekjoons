@@ -1,3 +1,5 @@
+## ✅ 문제풀이 : https://wisdom-coding38.tistory.com/154
+
 # [level 1] 2016년 - 12901 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12901) 
